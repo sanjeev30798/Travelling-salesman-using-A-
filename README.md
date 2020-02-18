@@ -1,2 +1,2 @@
-# Travelling-salesman-using-A-
+# Travelling-salesman
 Travelling salesman using A* algorithm.
